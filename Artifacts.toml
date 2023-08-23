@@ -1,0 +1,71 @@
+[[LibXSPEC_Relxill]]
+arch = "aarch64"
+git-tree-sha1 = "85cfa829f2746f3daf7cd43a4732d1128d2ec125"
+libgfortran_version = "5.0.0"
+os = "macos"
+
+    [[LibXSPEC_Relxill.download]]
+    sha256 = "83b3e5888008ec11ca12a31fb8943a654972634d73c41b30eb69418bef539a2e"
+    url = "https://github.com/local/releases/download/LibXSPEC_Relxill-v0.2.3+0/LibXSPEC_Relxill.v0.2.3.aarch64-apple-darwin-libgfortran5.tar.gz"
+[[LibXSPEC_Relxill]]
+arch = "x86_64"
+git-tree-sha1 = "798d587c2181b2bb52ea3969c9eeaec16a18ec08"
+libgfortran_version = "4.0.0"
+os = "macos"
+
+    [[LibXSPEC_Relxill.download]]
+    sha256 = "162a25623e7d0f284620db7d75b3122d2e4e427614fd8803eece242db753c72d"
+    url = "https://github.com/local/releases/download/LibXSPEC_Relxill-v0.2.3+0/LibXSPEC_Relxill.v0.2.3.x86_64-apple-darwin-libgfortran4.tar.gz"
+[[LibXSPEC_Relxill]]
+arch = "x86_64"
+git-tree-sha1 = "798d587c2181b2bb52ea3969c9eeaec16a18ec08"
+libgfortran_version = "5.0.0"
+os = "macos"
+
+    [[LibXSPEC_Relxill.download]]
+    sha256 = "162a25623e7d0f284620db7d75b3122d2e4e427614fd8803eece242db753c72d"
+    url = "https://github.com/local/releases/download/LibXSPEC_Relxill-v0.2.3+0/LibXSPEC_Relxill.v0.2.3.x86_64-apple-darwin-libgfortran5.tar.gz"
+[[LibXSPEC_Relxill]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "51beaea860965f8255d23b11b365e59c69a0dbb5"
+libc = "glibc"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[LibXSPEC_Relxill.download]]
+    sha256 = "4f8c8324a7341f3f40f4171968069503a288e49ec8954f3f5cba6b25b1261e41"
+    url = "https://github.com/local/releases/download/LibXSPEC_Relxill-v0.2.3+0/LibXSPEC_Relxill.v0.2.3.x86_64-linux-gnu-libgfortran4-cxx03.tar.gz"
+[[LibXSPEC_Relxill]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "bff5036ce350182ad9082790e908a1ada725db32"
+libc = "glibc"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[LibXSPEC_Relxill.download]]
+    sha256 = "d9c6756e865355a120a73df9c15b8b930404444b20501b4c5f4a038f6456910b"
+    url = "https://github.com/local/releases/download/LibXSPEC_Relxill-v0.2.3+0/LibXSPEC_Relxill.v0.2.3.x86_64-linux-gnu-libgfortran4-cxx11.tar.gz"
+[[LibXSPEC_Relxill]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "b9f7dfbcd218ff8f724323e1f0049e1383e68d63"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[LibXSPEC_Relxill.download]]
+    sha256 = "899d0b4572fe125786715072476c06d8e695a37adb60d78424d1daa369cc71b7"
+    url = "https://github.com/local/releases/download/LibXSPEC_Relxill-v0.2.3+0/LibXSPEC_Relxill.v0.2.3.x86_64-linux-gnu-libgfortran5-cxx03.tar.gz"
+[[LibXSPEC_Relxill]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "bf39ec8af07b1f31979330820cbb8ea945d99e9b"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[LibXSPEC_Relxill.download]]
+    sha256 = "2ce7dd3e12b0e3a3ba284636e31fa41f1a7d323b8cf8c743cecc25112ebf10ba"
+    url = "https://github.com/local/releases/download/LibXSPEC_Relxill-v0.2.3+0/LibXSPEC_Relxill.v0.2.3.x86_64-linux-gnu-libgfortran5-cxx11.tar.gz"
